@@ -8,6 +8,10 @@
 - 📫 How to reach me ...
 --->
 
+## Degree
+- BBA in Operations and Technology Management, minor in Computer Science @University of Portland
+- Math @Portland Community College
+
 ## Certificates
 - Machine Learning from Stanford Online (Coursera) 
 - Mathematics for Machine Learning Linear Algebra from Imperial London College (Coursera) 
@@ -20,7 +24,8 @@
 
 ## Samples 
 - <a href="https://github.com/RiceCode/RPA-Webscraping/blob/main/README.md">Webscraping</a> 
-- <a href="https://github.com/RiceCode/RPA-Webscraping/blob/main/README.md">Container Optimization</a> 
+- <a href="https://github.com/RiceCode/OptimizerLite">Container Optimization</a> 
+- <a href="https://github.com/RiceCode/Flask_Website">Python Webpage using flask</a> 
 
 
 <!---
